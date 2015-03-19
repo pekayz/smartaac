@@ -1,0 +1,1 @@
+Smart-Ass has a aim set to provide an easy and professional AAC that works out the box.
